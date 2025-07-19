@@ -1,0 +1,9 @@
+# Ignore all JSON files
+*.json
+
+# Ignore all text files
+*.txt
+
+# Ignore all PowerPoint presentations
+*.pptx
+
