@@ -33,5 +33,3 @@ Navigate into a project directory and execute the script:
 cd Calculator
 python calculator.py
 ```
-
-Most applications run without command‑line arguments and open a GUI window.
