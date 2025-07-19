@@ -1,0 +1,13 @@
+[
+    {
+        "input": "+306970667473",
+        "valid": true,
+        "parsed_number": "+306970667473",
+        "time_zones": [
+            "Europe/Athens"
+        ],
+        "service_provider": "Cosmote",
+        "country": "Greece",
+        "number_type": "Mobile"
+    }
+]
